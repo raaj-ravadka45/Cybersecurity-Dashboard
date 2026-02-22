@@ -19,15 +19,15 @@
 
 
 5.Features / Highlights :
-> Business Problem :
+- Business Problem :
 • Organizations face increasing cybersecurity threats but lack centralized visibility into attack patterns, severity distribution, and system vulnerabilities. Without structured analytics, security teams struggle to prioritize risks effectively.
 
-> Goal of the Project :
+- Goal of the Project :
 • To create an interactive dashboard that tracks cyber incidents.
 • To analyze attack frequency, type distribution, and severity trends.
 • To provide actionable insights for improving threat response strategies.
 
-> Walkthrough of Key Visuals :
+- Walkthrough of Key Visuals :
 • KPI Cards – Total Incidents, High-Risk Threats, Average Severity Score
 • Bar Chart – Distribution of attack types (Phishing, Malware, DDoS, etc.)
 • Line Chart – Incident trends over time
@@ -35,7 +35,7 @@
 • Geographical Map – Region-wise attack distribution
 • Filter Panel – Dynamic filtering by attack type, severity, and time period
 
-> Business Impact & Insights :
+- Business Impact & Insights :
 • Identified the most frequent and high-impact cyber threats.
 • Highlighted peak attack periods for proactive monitoring.
 • Enabled better resource allocation for high-risk vulnerabilities.
