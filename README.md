@@ -47,4 +47,6 @@ D1 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/GLOBAL
 
 D2 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/ATTACK%20TYPE%20ANALYSIS.png)
 
-D3 - (
+D3 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/INDUSTRY-WISE%20CYBER%20ATTACK%20IMPACT%20ANALYSIS.png)
+
+D4 - (
