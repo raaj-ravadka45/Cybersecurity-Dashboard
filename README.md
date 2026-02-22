@@ -49,4 +49,4 @@ D2 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/ATTACK
 
 D3 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/INDUSTRY-WISE%20CYBER%20ATTACK%20IMPACT%20ANALYSIS.png)
 
-D4 - (
+D4 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/ATTACK%20SOURCES%20AND%20SECURITY%20MEASURES%20ANALYSIS.png)
