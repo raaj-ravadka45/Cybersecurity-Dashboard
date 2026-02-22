@@ -45,4 +45,6 @@
 6. Screenshots/Demo
 D1 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/GLOBAL%20CYBERSECURITY%20THREATS%20-%20EXECUTIVE%20SUMMARY.png)
 
-D2 - 
+D2 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/ATTACK%20TYPE%20ANALYSIS.png)
+
+D3 - (
