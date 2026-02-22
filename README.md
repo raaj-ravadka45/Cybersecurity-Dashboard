@@ -35,11 +35,14 @@
 • Geographical Map – Region-wise attack distribution
 • Filter Panel – Dynamic filtering by attack type, severity, and time period
 
-
-6. Screenshots/Demoa
-
 > Business Impact & Insights :
 • Identified the most frequent and high-impact cyber threats.
 • Highlighted peak attack periods for proactive monitoring.
 • Enabled better resource allocation for high-risk vulnerabilities.
 • Improved decision-making through real-time interactive threat analysis.
+
+
+6. Screenshots/Demo
+D1 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/GLOBAL%20CYBERSECURITY%20THREATS%20-%20EXECUTIVE%20SUMMARY.png)
+
+D2 - 
