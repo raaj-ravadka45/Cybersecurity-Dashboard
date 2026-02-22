@@ -19,7 +19,7 @@
 
 
 5.Features / Highlights :
-> Business Problem
+> Business Problem :
 • Organizations face increasing cybersecurity threats but lack centralized visibility into attack patterns, severity distribution, and system vulnerabilities. Without structured analytics, security teams struggle to prioritize risks effectively.
 
 > Goal of the Project :
@@ -35,7 +35,7 @@
 • Geographical Map – Region-wise attack distribution
 • Filter Panel – Dynamic filtering by attack type, severity, and time period
 
-> Business Impact & Insights
+> Business Impact & Insights :
 • Identified the most frequent and high-impact cyber threats.
 • Highlighted peak attack periods for proactive monitoring.
 • Enabled better resource allocation for high-risk vulnerabilities.
