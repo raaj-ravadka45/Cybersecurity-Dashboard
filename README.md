@@ -35,6 +35,9 @@
 • Geographical Map – Region-wise attack distribution
 • Filter Panel – Dynamic filtering by attack type, severity, and time period
 
+
+6. Screenshots/Demoa
+
 > Business Impact & Insights :
 • Identified the most frequent and high-impact cyber threats.
 • Highlighted peak attack periods for proactive monitoring.
