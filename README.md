@@ -1,53 +1,53 @@
 # Cybersecurity-Dashboar
-1. Cybersecurity Threat Intelligence Dashboard  
+Cybersecurity Threat Intelligence Dashboard  
 
 
-2.Short Description / Purpose : 
-• An interactive cybersecurity analytics dashboard built to monitor, analyze, and visualize cyber threat patterns. The project helps identify attack trends, vulnerable systems, and security risks to support data-driven decision-making.
+1.Short Description / Purpose: 
+- An interactive cybersecurity analytics dashboard built to monitor, analyze, and visualize cyber threat patterns. The project helps identify attack trends, vulnerable systems, and security risks to support data-driven decision-making.
 
 
-3.Tech Stack :
-• Power BI (Data Visualization & Dashboard Development)
-• Python (Data Cleaning & Preprocessing – Pandas, NumPy)
-• Excel / CSV (Data Handling)
-• DAX (Calculated Measures & KPIs)
+3.Tech Stack:
+- Power BI (Data Visualization & Dashboard Development)
+- Python (Data Cleaning & Preprocessing – Pandas, NumPy)
+- Excel / CSV (Data Handling)
+- DAX (Calculated Measures & KPIs)
 
 
-4.Data Source :
-• The dataset was obtained from Kaggle, containing cybersecurity incident data such as attack types, severity levels, affected systems, and timestamps.
+4.Data Source:
+- The dataset was obtained from Kaggle, containing cybersecurity incident data such as attack types, severity levels, affected systems, and timestamps.
 
 
-5.Features / Highlights :
-- Business Problem :
-• Organizations face increasing cybersecurity threats but lack centralized visibility into attack patterns, severity distribution, and system vulnerabilities. Without structured analytics, security teams struggle to prioritize risks effectively.
+5.Features / Highlights:
+1. Business Problem :
+- Organizations face increasing cybersecurity threats but lack centralized visibility into attack patterns, severity distribution, and system vulnerabilities. Without structured analytics, security teams struggle to prioritize risks effectively.
 
-- Goal of the Project :
-• To create an interactive dashboard that tracks cyber incidents.
-• To analyze attack frequency, type distribution, and severity trends.
-• To provide actionable insights for improving threat response strategies.
+2. Goal of the Project:
+- To create an interactive dashboard that tracks cyber incidents.
+- To analyze attack frequency, type distribution, and severity trends.
+- To provide actionable insights for improving threat response strategies.
 
-- Walkthrough of Key Visuals :
-• KPI Cards – Total Incidents, High-Risk Threats, Average Severity Score
-• Bar Chart – Distribution of attack types (Phishing, Malware, DDoS, etc.)
-• Line Chart – Incident trends over time
-• Pie/Donut Chart – Severity level breakdown
-• Geographical Map – Region-wise attack distribution
-• Filter Panel – Dynamic filtering by attack type, severity, and time period
+3. Walkthrough of Key Visuals:
+- KPI Cards – Total Incidents, High-Risk Threats, Average Severity Score
+- Bar Chart – Distribution of attack types (Phishing, Malware, DDoS, etc.)
+- Line Chart – Incident trends over time
+- Pie/Donut Chart – Severity level breakdown
+- Geographical Map – Region-wise attack distribution
+- Filter Panel – Dynamic filtering by attack type, severity, and time period
 
-- Business Impact & Insights :
-• Identified the most frequent and high-impact cyber threats.
-• Highlighted peak attack periods for proactive monitoring.
-• Enabled better resource allocation for high-risk vulnerabilities.
-• Improved decision-making through real-time interactive threat analysis.
+4. Business Impact & Insights:
+- Identified the most frequent and high-impact cyber threats.
+- Highlighted peak attack periods for proactive monitoring.
+- Enabled better resource allocation for high-risk vulnerabilities.
+- Improved decision-making through real-time interactive threat analysis.
 
 
-6. Screenshots/Demo
-D1 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/GLOBAL%20CYBERSECURITY%20THREATS%20-%20EXECUTIVE%20SUMMARY.png)
+6. Screenshots/Demo ;
+- D1-(https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/GLOBAL%20CYBERSECURITY%20THREATS%20-%20EXECUTIVE%20SUMMARY.png)
 
-D2 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/ATTACK%20TYPE%20ANALYSIS.png)
+- D2-(https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/ATTACK%20TYPE%20ANALYSIS.png)
 
-D3 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/INDUSTRY-WISE%20CYBER%20ATTACK%20IMPACT%20ANALYSIS.png)
+- D3-(https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/INDUSTRY-WISE%20CYBER%20ATTACK%20IMPACT%20ANALYSIS.png)
 
-D4 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/ATTACK%20SOURCES%20AND%20SECURITY%20MEASURES%20ANALYSIS.png)
+- D4-(https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/ATTACK%20SOURCES%20AND%20SECURITY%20MEASURES%20ANALYSIS.png)
 
-D5 - (https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/GLOBAL%20CYBERSECURITY%20IMPACT%20OVERVIEW.png)
+- D5-(https://github.com/raaj-ravadka45/Cybersecurity-Dashboard/blob/main/GLOBAL%20CYBERSECURITY%20IMPACT%20OVERVIEW.png)
