@@ -1,6 +1,5 @@
 # Cybersecurity-Dashboar
 1. Cybersecurity Threat Intelligence Dashboard  
-• An interactive cybersecurity analytics dashboard built to monitor, analyze, and visualize cyber threat patterns. The project helps identify attack trends, vulnerable systems, and security risks to support data-driven decision-making.
 
 
 2.Short Description / Purpose : 
