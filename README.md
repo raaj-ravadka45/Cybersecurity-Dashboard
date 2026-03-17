@@ -6,18 +6,18 @@ Cybersecurity Threat Intelligence Dashboard
 - An interactive cybersecurity analytics dashboard built to monitor, analyze, and visualize cyber threat patterns. The project helps identify attack trends, vulnerable systems, and security risks to support data-driven decision-making.
 
 
-3.Tech Stack:
+2.Tech Stack:
 - Power BI (Data Visualization & Dashboard Development)
 - Python (Data Cleaning & Preprocessing – Pandas, NumPy)
 - Excel / CSV (Data Handling)
 - DAX (Calculated Measures & KPIs)
 
 
-4.Data Source:
+3.Data Source:
 - The dataset was obtained from Kaggle, containing cybersecurity incident data such as attack types, severity levels, affected systems, and timestamps.
 
 
-5.Features / Highlights:
+4.Features / Highlights:
 1. Business Problem :
 - Organizations face increasing cybersecurity threats but lack centralized visibility into attack patterns, severity distribution, and system vulnerabilities. Without structured analytics, security teams struggle to prioritize risks effectively.
 
